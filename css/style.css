@@ -13,7 +13,7 @@ body {
 }
 
 .logo img {
-    height: 50px; /* Adjust the height as needed */
+    height: 50px;
 }
 
 nav ul {
@@ -37,13 +37,13 @@ nav a {
 }
 
 .heroImg img {
-    height: 600px;
+    height: 400px;
     padding: 25px;
     border-radius: 8px;
 }
 
 .content {
-    max-width: 800px;
+    max-width: 500px;
     margin: 0 auto;
 }
 
